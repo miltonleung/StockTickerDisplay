@@ -3,4 +3,54 @@
    uuid = "AB41D3D7-2DA0-43D4-BEF8-3B8F6753955F"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA71721A-3C36-4B34-90F5-78B0B1166DED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StockTickerDisplay/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AA71721A-3C36-4B34-90F5-78B0B1166DED - 11d0c41f07ae71d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;StockTickerDisplay.ItemSizePreferenceData&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.onPreferenceChange&lt;A where A1: SwiftUI.PreferenceKey, A1.Value: Swift.Equatable&gt;(_: A1.Type, perform: (A1.Value) -&gt; ()) -&gt; some&gt;&gt;.0&gt; in StockTickerDisplay.ContentView.body.getter : some"
+                  moduleName = "StockTickerDisplay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Milton/Dropbox/Projects/StockTickerDisplay/StockTickerDisplay/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+               <Location
+                  uuid = "AA71721A-3C36-4B34-90F5-78B0B1166DED - 99ec392e234a2c7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in StockTickerDisplay_PreviewReplacement_ContentView_6):StockTickerDisplay.ContentView.(__preview__body in _B19A84FFBB2B6515C9D2BD2CC921F035).getter : some"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Milton/Dropbox/Projects/StockTickerDisplay/StockTickerDisplay/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
